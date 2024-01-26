@@ -1,18 +1,13 @@
 ![MasterHead](https://feature.undp.org/beyond-bitcoin/assets/mbNja7QNnr/block3.gif)
 <h1 align="center">Hi 👋, I'm Prakhyat khati</h1>
-<h3 align="center">A passionate Blockchain developer from Canada.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-
+<h3 align="center">A passionate software developer from Canada.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhyatkhati&label=Profile%20views&color=0e75b6&style=flat" alt="prakhyatkhati" /> </p>
 
 <p align="left"> <a href="https://twitter.com/khatiprakhyat" target="blank"><img src="https://img.shields.io/twitter/follow/khatiprakhyat?logo=twitter&style=for-the-badge" alt="khatiprakhyat" /></a> </p>
 
 - 🔭 I’m currently working on **Consent Management, Blockchain Development, Non-Fungible tokens, Access control, UI/UX Usability**
 
-- 🌱 I’m currently learning **Solidity / Javascript / Python / Java / AWS**
-
-- 👯 I’m looking to collaborate on **Web3 projects.**
-
+- 🌱 I’m currently learning ** Pythion/ Java/ C++/ Solidity / Javascript / AWS**
 - 📫 How to reach me **khatiprakhyat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
