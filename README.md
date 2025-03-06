@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software developer from Canada.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhyatkhati&label=Profile%20views&color=0e75b6&style=flat" alt="prakhyatkhati" /> </p>
 
-<p align="left"> <a href="https://twitter.com/khatiprakhyat" target="blank"><img src="https://img.shields.io/twitter/follow/khati_prakhyat?logo=twitter&style=for-the-badge" alt="khatiprakhyat" /></a> </p>
+<p align="left"> <a href="https://twitter.com/khati_prakhyat" target="blank"><img src="https://img.shields.io/twitter/follow/khati_prakhyat?logo=twitter&style=for-the-badge" alt="khati_prakhyat" /></a> </p>
 
 - 🔭 I’m currently working on **Consent Management, Blockchain Development, Non-Fungible tokens, Access control, UI/UX Usability**
 
